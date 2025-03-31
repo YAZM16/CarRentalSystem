@@ -8,3 +8,5 @@ The Singleton Pattern  ensures we have only one instance of the VehicleDatabase 
 Varför? this pattern is ideal for resource management scenarios where a single instance is required.
 The Facade pattern simplifies the interface to our booking system.
 Varför?  it hides complexity behind a unified interface, making it easier for clients to interact with the system.
+
+![Skärmbild 2025-03-31 104728](https://github.com/user-attachments/assets/5df30040-b551-435e-8a3f-e243639ede3d)
